@@ -32,8 +32,8 @@ python_focada.png
 
 **Questão 06:**  
 O kernel Kx quando aplicado na imagem, destaca as bordas horizontais.  
-Já o kernel Ky destaca as bordas verticais. Ambos são utilizados  
-para calcular as aproximações das derivadas da imagem, e quando aplicados  
+Já o kernel Ky destaca as bordas verticais. Ambos são utilizados para  
+calcular as aproximações das derivadas da imagem, e quando aplicados  
 juntos, formam o seguinte efeito:
 
 ![alt text](https://github.com/enricofm/uvv_lp_1_cc3m/blob/main/construct_bordas.png)
