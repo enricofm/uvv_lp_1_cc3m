@@ -3,7 +3,9 @@ Aluno: Enrico Freitas Modena - CC3M
 Professor: Abrantes Araujo Silva Filho
 ## Questões
 **Questão 01:**  
-O resultado esperado seria uma imagem de mesma altura (1 pixel) e largura (4 pixels), com pixels: [226,166,119,55]. A inversão é calculada subtraindo o valor “cor”, de cada pixel, de 255, o valor máximo de cor que um pixel pode assumir - nesse caso, a cor branca.  
+O resultado esperado seria uma imagem de mesma altura (1 pixel) e largura (4 pixels),  
+com pixels: [226,166,119,55]. A inversão é calculada subtraindo o valor “cor”, de cada  
+pixel, de 255, o valor máximo de cor que um pixel pode assumir - nesse caso, a cor branca.
 
 **Questão 02:**  
 ![alt text](https://github.com/enricofm/uvv_lp_1_cc3m/blob/main/bluegill_invertido.png)
